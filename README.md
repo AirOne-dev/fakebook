@@ -5,13 +5,13 @@ A small php script to make social engineering with fakebook.
 
 ## On linux :
 
-**Execute these commands :** 
+**Execute this command :** 
 
- `mkdir Fakebook`&&
-`cd Fakebook`&&
-`sudo wget https://github.com/Firologame/fakebook/archive/master.zip`&&
-`unzip master.zip`&&
-`sudo cp -R ./fakebook-master/fakebook/ /var/www/html/`&&
+ `mkdir Fakebook &&
+cd Fakebook &&
+sudo wget https://github.com/Firologame/fakebook/archive/master.zip &&
+unzip master.zip &&
+sudo cp -R ./fakebook-master/fakebook/ /var/www/html/
 
 And then enjoy !
 
