@@ -1,4 +1,4 @@
-# fakebook
+# fakebook (entertainment purpose only !)
 A small php script to make social engineering with fakebook.
 
 # **How to install :**
